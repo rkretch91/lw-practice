@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Helvetica;
+}
+
+#logo {
+  height: 80px;
+  weight: 80px;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
